@@ -4,8 +4,6 @@
 
 Experiencee is a comprehensive mobile application built with React Native. It allows users to create and apply for job listings, manage profiles, and communicate via messaging. The app is designed to handle a large volume of job postings efficiently and provides a seamless user experience.
 
-[![Watch the video](https://img.youtube.com/vi/1hlTP9sm_hY/0.jpg)](https://youtu.be/1hlTP9sm_hY)
-
 ## Features
 
 - User Authentication
@@ -124,4 +122,5 @@ Open a Pull Request
 
 Semih Aşdan - - semih.asdan@gmail.com
 
+[![Watch the video](https://img.youtube.com/vi/1hlTP9sm_hY/0.jpg)](https://youtu.be/1hlTP9sm_hY)
 
