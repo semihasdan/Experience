@@ -28,6 +28,8 @@ Make sure you have the following installed:
 - npm (Node Package Manager)
 - Expo CLI
 
+
+
 ### Installation Steps
 
 1. Clone the repository:
@@ -47,23 +49,61 @@ Make sure you have the following installed:
    ```bash
    npm start
 
-## Usage
+## Technologies Used
 
-Authentication: Users can sign up or log in using their email.
-Job Listings: View, create, and manage job postings.
-Profile Management: Edit profile details and upload a profile picture.
-Messaging: Communicate with other users via direct messages.
-Notifications: Receive notifications for job applications and messages.
+- **React Native**: Framework for building native apps using React.
+- **Expo**: A framework and platform for universal React applications.
+- **Firebase**: Backend platform for building web and mobile applications.
+  - **Firebase Authentication**: For user authentication.
+  - **Firebase Firestore**: For real-time database functionalities.
+  - **Firebase Messaging**: For push notifications.
+- **React Navigation**: Routing and navigation for your React Native apps.
+  - **@react-navigation/native**
+  - **@react-navigation/stack**
+  - **@react-navigation/bottom-tabs**
+- **date-fns**: Modern JavaScript date utility library.
+- **expo-av**: Audio and video playback.
+- **expo-camera**: Access to the device's camera.
+- **expo-constants**: System information that remains constant throughout the app lifecycle.
+- **expo-document-picker**: API for picking documents.
+- **expo-image-picker**: Access to the device's media library.
+- **expo-linking**: Provides a unified interface for interacting with deep links.
+- **expo-media-library**: Provides access to the media library on the device.
+- **expo-permissions**: API for requesting permissions.
+- **expo-status-bar**: A component for controlling the app status bar.
+- **expo-video-thumbnails**: Generate thumbnails from video files.
+- **lodash.debounce**: A function for creating debounced functions.
+- **react-native-animatable**: Declarative transitions and animations for React Native.
+- **react-native-audio-recorder-player**: Audio recorder and player for React Native.
+- **react-native-camera**: Camera component for React Native.
+- **react-native-elements**: Cross-platform React Native UI toolkit.
+- **react-native-image-crop-picker**: iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping.
+- **react-native-image-picker**: A React Native module that allows you to use the native image gallery and camera.
+- **react-native-keyboard-aware-scroll-view**: A helper component that makes sure your scroll view is positioned correctly when a keyboard is present.
+- **react-native-paper**: Material Design for React Native.
+- **react-native-reanimated**: React Native's Animated library reimplemented.
+- **react-native-safe-area-context**: A flexible way to handle safe area (notch) insets in React Native.
+- **react-native-screens**: Native navigation primitives for your React Native app.
+- **react-native-video**: A <Video> component for react-native.
+- **react-native-webrtc**: A WebRTC module for React Native.
+- **rn-fetch-blob**: A library to handle file system access in React Native.
 
 ## Project Structure
 
 App.js: Main entry point of the application.
+
 Main.js: Core component where job listings are displayed.
+
 Chat.js, ChatDetails.js, ChatProfile.js, Message.js: Components related to the messaging system.
+
 ApplyScreen.js, CreateJobAd.js, Cv.js, PortfolioAddScreen.js: Components for job application and job creation functionalities.
+
 CallScreen.js: Component for voice or video call functionalities.
+
 Accounting.js: Component for managing financial transactions.
+
 Profile.js, Notifications.js: Components for profile management and notifications.
+
 Search.js: Component for searching job listings.
 
 ## Performance Optimizations
