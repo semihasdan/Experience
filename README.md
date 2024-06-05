@@ -122,5 +122,5 @@ Open a Pull Request
 
 Semih Aşdan - - semih.asdan@gmail.com
 
-[![Watch the video](https://img.youtube.com/vi/1hlTP9sm_hY/0.jpg)](https://youtu.be/1hlTP9sm_hY)
+[![Watch the video](https://img.youtube.com/vi/1hlTP9sm_hY/3.jpg)](https://youtu.be/1hlTP9sm_hY)
 
