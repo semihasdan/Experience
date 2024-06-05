@@ -17,38 +17,6 @@ Experiencee is a comprehensive mobile application built with React Native. It al
 - Real-time Job Posting Updates
 - Responsive Design
 
-## Installation
-
-To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-Make sure you have the following installed:
-- Node.js
-- npm (Node Package Manager)
-- Expo CLI
-
-
-
-### Installation Steps
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/experiencee.git
-   cd experiencee
-   
-2. Install dependencies:
-
-   ```bash
-   npm install
-
-   
-3. Start the application:
-
-   ```bash
-   npm start
-
 ## Technologies Used
 
 - **React Native**: Framework for building native apps using React.
@@ -87,6 +55,36 @@ Make sure you have the following installed:
 - **react-native-video**: A <Video> component for react-native.
 - **react-native-webrtc**: A WebRTC module for React Native.
 - **rn-fetch-blob**: A library to handle file system access in React Native.
+
+## Installation
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+Make sure you have the following installed:
+- Node.js
+- npm (Node Package Manager)
+- Expo CLI
+
+### Installation Steps
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/experiencee.git
+   cd experiencee
+   
+2. Install dependencies:
+
+   ```bash
+   npm install
+
+   
+3. Start the application:
+
+   ```bash
+   npm start
 
 ## Project Structure
 
